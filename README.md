@@ -5,8 +5,8 @@
 ---
 
 > [!IMPORTANT]
-> **Este proyecto aún está en desarrollo.♡
-> el proyecto está en constante evalucion por lo tanto el bot aún no funcionará hasta que el proyectó este terminado.**
+> **Este proyecto aún está en desarrollo.
+> por lo tanto el bot aún no funcionará hasta que el proyectó este terminado.**
 
 ----
 
